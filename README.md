@@ -4,7 +4,7 @@
 
 Behavior-driven cognitive experimentation toolkit with BCE (Behavioral Consciousness Engine) regularization, telemetry, and plug-and-play integrators for language-model training and evaluation.
 
-* “Alone, the transformer is a reactive generator.With BCE, it transforms into a behavioral organism.” *
+*Alone, the transformer is a reactive generator.With BCE, it transforms into a behavioral organism.*
 
 ## Highlights
 - **Behavioral Consciousness Engine (BCE):** Regularizer that nudges models toward stable, self-consistent behavioral patterns during training.
@@ -123,4 +123,5 @@ See `licence.md`.
 https://prometech.net.tr/
 
 info@prometech.net.tr
+
 
